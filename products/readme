@@ -1,0 +1,3 @@
+- Please run the script products.sql available in the folder src/main/resources to create the necessary tables first.
+- Modify database connection application.properties file.
+- The status in product table (0 - Inactive, 1 - Active).
